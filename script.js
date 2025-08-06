@@ -16,3 +16,7 @@ let aluno1 = {
 }  idade:18, 
    anoletivo: '3° ensino médio',
    Materiafavoritas:['historia']
+    
+   console.log(aluno1.aluno);
+   console.log(aluno1.idade);
+   console.log(aluno1)
